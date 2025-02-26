@@ -24,11 +24,11 @@ Este projeto contém informações sobre minha formação acadêmica, habilidade
 
 ### 📷 Demonstração
 
-<a><img width="100%" src="img/tela.png"></a>
+<a><img width="50%" src="img/tela.png"></a>
 
 ### 🔗 Link para o Projeto
 
-👉 [Ver Currículo ao Vivo](https://github.com/Maike-Simoncini/Curriculo) 👈
+👉 [Ver Currículo ao Vivo](https://maike-simoncini.github.io/Curriculo-Maike-Simoncini/) 👈
 
 ### 📄 Licença
 
