@@ -24,7 +24,7 @@ Este projeto contém informações sobre minha formação acadêmica, habilidade
 
 ### 📷 Demonstração
 
-<a><img width="50%" src="img/tela.png"></a>
+<a><img width="50%" src="img/tela2.png"></a>
 
 ### 🔗 Link para o Projeto
 
